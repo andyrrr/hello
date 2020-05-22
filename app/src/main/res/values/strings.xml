@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="bttnAtras">Atrás</string>
+    <string name="bttonSig">Siguiente</string>
+    <string name="bttnCot">Cotizaciones</string>
+    <string name="bttnInv">Inventario</string>
+    <string name="etIngreseNombre">Ingrese el nombre</string>
+    <string name="etIngreseCorreo">myemail@example.com</string>
+    <string name="etIngreseLugar">Ingrese el lugar</string>
+    <string name="etIngreseCedula">102340567</string>
+    <string name="etIngreseTeléfono">12345678</string>
+    <string name="etIngreseFecha">DD/MM/AAAA</string>
+    <string name="etIngresePrecioUnitario">Ingrese precio por unidad</string>
+    <string name="etIngreseDescripcion">Agregue una descripción </string>
+</resources>
